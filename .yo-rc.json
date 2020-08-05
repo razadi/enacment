@@ -1,0 +1,84 @@
+{
+  "generator-ngx-rocket": {
+    "appName": "rzdenacment",
+    "target": [
+      "web"
+    ],
+    "pwa": false,
+    "mobile": null,
+    "desktop": null,
+    "ui": "bootstrap",
+    "layout": null,
+    "auth": false,
+    "lazy": true,
+    "angulartics": false,
+    "languages": [
+      "en-US"
+    ],
+    "analyticsProvider": null,
+    "googleAnalyticsAccount": null,
+    "tools": [],
+    "utility": [],
+    "deploy": "none",
+    "version": "8.1.1",
+    "props": {
+      "location": "path",
+      "strict": false,
+      "skipInstall": false,
+      "skipQuickstart": false,
+      "initGit": true,
+      "usePrefix": true,
+      "appName": "rzdenacment",
+      "target": [
+        "web"
+      ],
+      "pwa": false,
+      "ui": "bootstrap",
+      "auth": false,
+      "lazy": true,
+      "angulartics": false,
+      "languages": [
+        "en-US"
+      ],
+      "tools": [],
+      "utility": [],
+      "deploy": "none",
+      "projectName": "rzdenacment",
+      "packageManager": "npm",
+      "mobile": [],
+      "desktop": []
+    }
+  },
+  "generator-addon-firebase": {
+    "firebaseDeploy": true,
+    "version": "3.0.1",
+    "props": {
+      "firebaseDeploy": true,
+      "appName": "rzdenacment",
+      "projectName": "rzdenacment",
+      "packageManager": "npm",
+      "location": "path",
+      "strict": false,
+      "skipInstall": false,
+      "skipQuickstart": false,
+      "initGit": true,
+      "usePrefix": true,
+      "target": [
+        "web"
+      ],
+      "pwa": false,
+      "ui": "bootstrap",
+      "auth": false,
+      "lazy": true,
+      "angulartics": false,
+      "languages": [
+        "en-US"
+      ],
+      "tools": [],
+      "utility": [],
+      "deploy": "none",
+      "mobile": [],
+      "desktop": []
+    }
+  }
+}
